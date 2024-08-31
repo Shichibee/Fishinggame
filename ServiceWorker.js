@@ -1,9 +1,9 @@
 const cacheName = "Shichibee-fishing_game-1.0";
 const contentToCache = [
     "Build/fishing_game_web.loader.js",
-    "Build/fishing_game_web.framework.js.br",
-    "Build/fishing_game_web.data.br",
-    "Build/fishing_game_web.wasm.br",
+    "Build/fishing_game_web.framework.js.unityweb",
+    "Build/fishing_game_web.data.unityweb",
+    "Build/fishing_game_web.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
